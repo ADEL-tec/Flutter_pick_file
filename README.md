@@ -15,7 +15,10 @@ To get started with this project, follow these steps:
 When the app is launched, you will see a circle labeled "Please Pick a File". Clicking on this circle it opened modalBottomSheet with two buttons, "Pick File" and "Take photo". Clicking on "Pick file" will launch the file picker (in this app i alow just files with extensions: .pdf, .doc, .docx, .jpg, .jpeg, .png (you can add or remove any of extensions., allowing you to select a file from your device. Once you have selected a file, the file path and extension will be displayed on the screen. same with 
 the button take photo...
 
-![Alt Text](https://github.com/ADEL-tec/Flutter_pick_file/blob/master/screenshots/Screenshot_2023-03-18-23-41-03-034_com.adel.app.file_picker.jpg)
+<img src="https://github.com/ADEL-tec/Flutter_pick_file/blob/master/screenshots/Screenshot_2023-03-18-23-41-03-034_com.adel.app.file_picker.jpg" alt="Alt Text"  height="500" />
+<img src="https://github.com/ADEL-tec/Flutter_pick_file/blob/master/screenshots/Screenshot_2023-03-18-23-41-06-937_com.adel.app.file_picker.jpg" alt="Alt Text"  height="500" />
+<img src="https://github.com/ADEL-tec/Flutter_pick_file/blob/master/screenshots/Screenshot_2023-03-18-23-41-52-762_com.adel.app.file_picker.jpg" alt="Alt Text"  height="500" />
+<img src="https://github.com/ADEL-tec/Flutter_pick_file/blob/master/screenshots/Screenshot_2023-03-18-23-42-05-001_com.adel.app.file_picker.jpg" alt="Alt Text"  height="500" />
 
 ## Dependencies
 
